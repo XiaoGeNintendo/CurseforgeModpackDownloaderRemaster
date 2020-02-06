@@ -35,6 +35,7 @@ public class CommandLineEntrance {
     CloseableHttpClient httpClient = HttpClients.createDefault();
     
     String read(String url) throws MalformedURLException, IOException{
+    	System.out.println("Connecting to "+url);
     	InputStream is=new URL(url).openConnection().getInputStream();
 		BufferedReader br=new BufferedReader(new InputStreamReader(is, "utf-8"));
 		String s="",sl="";
@@ -42,6 +43,7 @@ public class CommandLineEntrance {
 			s+=sl;
 		}
 		br.close();
+		System.out.println("Read "+s.length()+" bytes");
 		return s;
     }
     
