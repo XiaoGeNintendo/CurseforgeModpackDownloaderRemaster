@@ -1,7 +1,7 @@
 # CurseforgeModpackDownloaderRemaster
- Another way to install curseforge modpacks
+ Another way to install curseforge modpacks from your command prompt
 # Usage
-1. Download The Zip file from the Curseforge.
+1. Download The Zip file from the Curseforge and the jar file from Release.
 
 2. Unzip the zip and find out the manifest.json file in the zip. 
 
