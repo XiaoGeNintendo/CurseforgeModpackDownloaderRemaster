@@ -26,3 +26,8 @@ Modloader=[ModLoader [id=forge-14.23.5.2847, primary=true]]
 7. Put all the downloaded mods into the "mods" version and copy all the content of "overrides" in the zip to ".minecraft"
 
 8. Open the game and you should be set!
+
+# Credits
+Gson 
+
+[API](https://www.reddit.com/r/feedthebeast/comments/9vj5nm/wip_curseforge_minecraft_mod_indexer_api/)
