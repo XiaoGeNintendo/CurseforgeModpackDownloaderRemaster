@@ -23,6 +23,6 @@ Modloader=[ModLoader [id=forge-14.23.5.2847, primary=true]]
 
 6. Open the output file and download all the links.
 
-7. Put all the downloaded mods into the "mods" version and copy all the content of "override" in the zip folder to ".minecraft"
+7. Put all the downloaded mods into the "mods" version and copy all the content of "overrides" in the zip to ".minecraft"
 
 8. Open the game and you should be set!
