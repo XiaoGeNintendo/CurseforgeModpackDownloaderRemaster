@@ -5,7 +5,7 @@
 
 2. Unzip the zip and find out the manifest.json file in the zip. 
 
-3. Run `java -jar <Your Manifest.json's Position> <Output File Name>`
+3. Run `java -jar Curseforge.jar <Your Manifest.json's Position> <Output File Name>` in the folder containing this project.
 
 4. It should display something like this:
 ```
